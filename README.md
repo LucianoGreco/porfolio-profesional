@@ -28,5 +28,4 @@
 
 **Luciano Gabriel Greco - Full Stack Developer**
 
-atsCertificado
-![](./img/atsCertificado.jpge)
+![](./img/atsCertificado.png)
