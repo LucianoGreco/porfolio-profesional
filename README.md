@@ -29,7 +29,7 @@
 
 <img src ="./img/springBoot.png" width="100"> <img src ="./img/spring.png" width="100"> <img src ="./img/React.png" width="100">
 
-<img src ="./img/postman.png" width="100"> <img src ="./img/nodejs.png" width="100"> <img src ="./img/diagrams" width="100"> <img src ="./img/docker" width="100">
+<img src ="./img/postman.png" width="100"> <img src ="./img/nodejs.png" width="100"> <img src ="./img/diagrams.png" width="100"> <img src ="./img/docker.png" width="100">
 
 
 
