@@ -23,8 +23,8 @@
 **TECNOLOGíAS Y APLICACIONES**
 ==============================
 
-<img src ="./img/html.png" width="200">
-<img src ="./img/css.png" width="200">
+<img src ="./img/html.png" width="200"> <img src ="./img/css.png" width="200">
+
 <img src ="./img/javaScript.png" width="200">
 <img src ="./img/sass.png" width="200">
 <img src ="./img/grid&flexbox.png" width="200">
