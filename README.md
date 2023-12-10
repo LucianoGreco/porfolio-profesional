@@ -13,7 +13,7 @@
 
 ![](./img/certified%20tech%20developer.png)
 
-<img src ="./img/digital%20house.png" width="100"> <img src ="./img/globant.png" width="100"> <img src ="./img/mercadoLibre.png" width="100">
+<img src ="./img/digital%20house.png" width="150"> <img src ="./img/globant.png" width="150"> <img src ="./img/mercadoLibre.png" width="150">
 
 > Avalado por las firmas: Digital House > Globant > Mercado Libre
 
@@ -25,11 +25,11 @@
 
 <img src ="./img/grid&flexbox.png" width="100"> <img src ="./img/bootstrap.png" width="100"> <img src ="./img/git.png" width="100"> <img src ="./img/github.png" width="100">
 
-<img src ="./img/figma.png" width="200"> <img src ="./img/Java.png" width="200"> <img src ="./img/maven.png" width="100"> <img src ="./img/mysql.png" width="100">
+<img src ="./img/figma.png" width="100"> <img src ="./img/Java.png" width="100"> <img src ="./img/maven.png" width="100"> <img src ="./img/mysql.png" width="100">
 
 <img src ="./img/springBoot.png" width="100"> <img src ="./img/spring.png" width="100"> <img src ="./img/React.png" width="100">
 
-<img src ="./img/postman.png" width="200"> <img src ="./img/nodejs.png" width="100"> <img src ="./img/diagrams" width="100"> <img src ="./img/docker" width="100">
+<img src ="./img/postman.png" width="100"> <img src ="./img/nodejs.png" width="100"> <img src ="./img/diagrams" width="100"> <img src ="./img/docker" width="100">
 
 
 
