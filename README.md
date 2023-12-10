@@ -29,4 +29,5 @@
 
 
 **Luciano Gabriel Greco - Full Stack Developer**
-![](./img/LucianoGreco.jpeg)
+![]("./img/LucianoGreco.jpeg" width="200")
+<img src ="./img/LucianoGreco.jpeg" width="200">
