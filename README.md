@@ -6,8 +6,9 @@
 **Nombre:** Luciano Gabriel
 **Apellido:** Greco 
 **Fecha de Nacimiento:** 1992
-**Lugar de Nacimiento:** San Rafael - Mendoza
+**Localidad:** San Rafael - Mendoza
 **Nacionalidad:** Argentina
+**Profesion:** Desarrollador Full Stack
 
 
 *The Certified Tech Developer* 
@@ -15,7 +16,7 @@
 
 ![](./img/certified%20tech%20developer.png)
 
-<img src ="./img/digital%20house.png" width="150"> <img src ="./img/globant.png" width="150"> <img src ="./img/mercadoLibre.png" width="150">
+<img src ="./img/digital%20house.png" width="100"> <img src ="./img/globant.png" width="100"> <img src ="./img/mercadoLibre.png" width="100">
 
 > Avalado por las firmas: Digital House > Globant > Mercado Libre
 
