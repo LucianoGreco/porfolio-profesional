@@ -1,3 +1,5 @@
+
+
 **💻📚 FULL STACK DEVELOPER 🎮🕹**
 ========================
 
@@ -14,7 +16,7 @@
 **Profesion:** Desarrollador Full Stack
 
 
-*The Certified Tech Developer* 
+*The Certified Tech Developer🥇* 
 ===============================
 
 ![](./img/certified%20tech%20developer.png)
