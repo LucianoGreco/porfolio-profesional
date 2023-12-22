@@ -16,8 +16,9 @@
 
 ![](./img/certified%20tech%20developer.png)
 
-<img src ="./img/digital%20house.png" width="100"  height="100"><img src ="./img/udemy.png" height="100"><img src ="./img/globant.png" width="100" height="100"><img src ="./img/mercadoLibre.png" width="100" height="100"><img src ="./img/platzi.png" height="100"><img src ="./img/ats.png" width="100" height="100">
+<img src ="./img/digital%20house.png" width="150"  height="100"><img src ="./img/globant.png" width="100" height="100"><img src ="./img/ats.png" width="100" height="100"><img src ="./img/mercadoLibre.png" width="100" height="100"><img src ="./img/platzi.png" height="100"><img src ="./img/udemy.png" height="100">
 
+> [!IMPORTANT]
 > Avalado por las firmas: Digital House > Globant > Mercado Libre
 
 
