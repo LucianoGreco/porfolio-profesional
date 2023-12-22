@@ -36,19 +36,19 @@
         ● Metodologia del Trabajo ⭐⭐⭐⭐
         ● Base de datos ⭐⭐⭐⭐⭐
         ● Programacion Imperativa ⭐⭐⭐⭐⭐
-        ● Learnin Agility ⭐⭐
+        ● Learnin Agility ⭐⭐⭐
         ● Programacion Orientado a Objetos ⭐⭐⭐⭐⭐
-        ● Testing ⭐⭐
-        ● Desing Thinking ⭐⭐
+        ● Testing ⭐⭐⭐
+        ● Desing Thinking ⭐⭐⭐
         ● Frontend II ⭐⭐⭐⭐⭐
         ● Infraestructura I ⭐⭐⭐
-        ● UX-UI ⭐⭐
+        ● UX-UI ⭐⭐⭐
         ● Back end ⭐⭐⭐⭐⭐
         ● Soft skill training comunicacion efectiva ⭐⭐⭐
         ● Infraestructura II ⭐⭐⭐
         ● Frontend III ⭐⭐⭐⭐⭐
         ● Team Work and Collaboration ⭐⭐⭐
-        ● Programa De Desarrollo Profesional ⭐⭐
+        ● Programa De Desarrollo Profesional ⭐⭐⭐
         ● Especializacion Backend 📚 *En proceso...*
 
 **TECNOLOGíAS Y APLICACIONES**
