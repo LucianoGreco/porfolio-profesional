@@ -7,7 +7,6 @@
 
 **DATOS PERSONALES**
 ====================
-
     **Nombre:** Luciano Gabriel
     **Apellido:** Greco 
     **Fecha de Nacimiento:** 1992
