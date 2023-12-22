@@ -5,12 +5,13 @@
 
 **DATOS PERSONALES**
 ====================
-    **Nombre:** Luciano Gabriel
-    **Apellido:** Greco 
-    **Fecha de Nacimiento:** 1992
-    **Localidad:** San Rafael - Mendoza
-    **Nacionalidad:** Argentina
-    **Profesion:** Desarrollador Full Stack
+
+**Nombre:** Luciano Gabriel
+**Apellido:** Greco 
+**Fecha de Nacimiento:** 1992
+**Localidad:** San Rafael - Mendoza
+**Nacionalidad:** Argentina
+**Profesion:** Desarrollador Full Stack
 
 
 *The Certified Tech Developer* 
