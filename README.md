@@ -1,4 +1,4 @@
-**FULL STACK DEVELOPER 🎮🕹💻📚**
+**💻📚 FULL STACK DEVELOPER 🎮🕹**
 ========================
 
 <img src ="./img/LucianoGreco.jpeg" width="400">
