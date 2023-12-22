@@ -4,10 +4,15 @@
 <img src ="./img/LucianoGreco.jpeg" width="400">
 
 **Nombre:** Luciano Gabriel
+
 **Apellido:** Greco 
+
 **Fecha de Nacimiento:** 1992
+
 **Localidad:** San Rafael - Mendoza
+
 **Nacionalidad:** Argentina
+
 **Profesion:** Desarrollador Full Stack
 
 
